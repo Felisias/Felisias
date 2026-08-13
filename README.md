@@ -34,7 +34,7 @@ I am an ML/CV enthusiast and software developer. I specialize in Machine Learnin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white )
 <!-- Add other languages here: Java, Kotlin, C++, SQL, etc. -->
 
-## 📫 Let's Connect
+##  Let's Connect
 
 * **Telegram:** [@Felisias777](https://t.me/Felisias777)
 * **Email:** [ТВОЙ_EMAIL@example.com ](mailto:ТВОЙ_EMAIL@example.com )
