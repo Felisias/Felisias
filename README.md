@@ -10,6 +10,9 @@ I am an ML/CV enthusiast and software developer. I specialize in Machine Learnin
   Developed a comprehensive Computer Vision pipeline to assess road conditions using deep learning architectures (**YOLO, EfficientDet**). The project included custom dataset annotation, data pipelines, and map integration features. 
   *(Awarded top grade and recognized as the best presentation of the committee session).*
 
+*  **Numerical Methods for Mathematical Physics (Coursework)**
+  Solved complex boundary value problems for diffusion processes using the finite difference method (explicit scheme). Developed Python (NumPy, Matplotlib) simulations to validate numerical stability and convergence against analytical Fourier series solutions.
+
 *  **Smart Calendar & Tracker** 
   Built a personalized **Android application** for comprehensive lifestyle management. Features include structured daily tracking for physical training routines, precise macronutrient/diet logging, and water intake monitoring.
 
