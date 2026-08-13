@@ -23,7 +23,7 @@ I am an ML/CV enthusiast and software developer. I specialize in Machine Learnin
 
 * **BSc in Applied Mathematics and Informatics**
 * **Tinkoff Education:** Currently taking coursework in Machine Learning.
-* Continuous exploration of deep learning, data science platforms (Kaggle), and local computing infrastructure optimization (Ubuntu Linux).
+* Continuous exploration of deep learning, data science platforms, and local computing infrastructure optimization (Ubuntu Linux).
 
 ##  Technical Arsenal
 
