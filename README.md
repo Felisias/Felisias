@@ -37,5 +37,4 @@ I am an ML/CV enthusiast and software developer. I specialize in Machine Learnin
 ##  Let's Connect
 
 * **Telegram:** [@Felisias777](https://t.me/Felisias777)
-* **Email:** [ТВОЙ_EMAIL@example.com ](mailto:ТВОЙ_EMAIL@example.com )
-* **Kaggle:** [Your link to Kaggle, if you want to show your profile]
+* **Email:** knd04@internet.ru
